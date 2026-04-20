@@ -43,6 +43,7 @@ The dataset consists of `rtt_results.csv` files generated during the tests. Key 
 
 These datasets are invaluable for statistical analysis regarding latency bounds, throughput limits, and ESB-to-Wi-Fi gateway reliability.
 
+<!--
 ## Getting Started
 
 ### Prerequisites
@@ -64,3 +65,5 @@ west build -b heliogen_g5_node_nrf5340_cpuapp cluster_node_multi_image_fota
 
 ### Flashing
 Use the provided bash or batch scripts (`jflash.sh` / `jflash.bat`) located within each project directory, or alternatively use `west flash` if your runner is natively supported.
+
+-->
