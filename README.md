@@ -43,6 +43,18 @@ The dataset consists of `rtt_results.csv` files generated during the tests. Key 
 
 These datasets are invaluable for statistical analysis regarding latency bounds, throughput limits, and ESB-to-Wi-Fi gateway reliability.
 
+## Citation
+
+If you use this network architecture or its components in your research or product, please cite this repository:
+
+@article{wifi_esb_repo,
+  author       = {Siraj, M. S. and Syed, K. A. and Rahman, A. B. and Tsiropoulou, E. E.},
+  title        = {WiFi-ESB Hybrid Wireless Network Codebase \& Data},
+  howpublished = {\url{https://github.com/Khalid-Syed/wifi_esb_wireless_adaptive_network}},
+  year         = {2026},
+  note         = {Accessed: 2026-03-29},
+}
+
 <!--
 ## Getting Started
 
